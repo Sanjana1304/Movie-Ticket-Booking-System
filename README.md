@@ -47,10 +47,10 @@
 ## Module to Update Theatre
 <img width="651" alt="Screenshot 2023-12-13 at 5 03 49 PM" src="https://github.com/Sanjana1304/Movie-Ticket-Booking-System/assets/64159652/531fef33-9522-4e38-9a92-1cfb267a70bf">
 
-## Module to Update Movie
+## Module to Remove Movie
 <img width="444" alt="Screenshot 2023-12-13 at 5 04 15 PM" src="https://github.com/Sanjana1304/Movie-Ticket-Booking-System/assets/64159652/0befffd9-1f17-4199-85f9-8dbcce643bcd">
 
-## Module to Remove Thaetre
+## Module to Remove Theatre
 <img width="447" alt="Screenshot 2023-12-13 at 5 04 28 PM" src="https://github.com/Sanjana1304/Movie-Ticket-Booking-System/assets/64159652/35f4b892-6823-4f30-ada0-e4950c3ca0ac">
 
 ## Module to View Users
